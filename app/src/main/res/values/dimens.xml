@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Margin around the floating action button in ProductListActivity -->
+    <dimen name="add_product_button_margin">8dp</dimen>
+
+    <!-- Common margin value used throughout the app for 4dp -->
+    <dimen name="activity_margin_very_small">4dp</dimen>
+
+    <!-- Common margin value used throughout the app for 8dp -->
+    <dimen name="activity_margin_small">8dp</dimen>
+
+    <!-- Common margin value used throughout the app for 16dp-->
+    <dimen name="activity_margin_large">16dp</dimen>
+</resources>
